@@ -8,4 +8,4 @@ A simple interface for chatting with a language model in Godot Engine.
 2. Download the model you plan to use. Example: `ollama pull qwen2:1.5b`
 3. Run the Godot scene
 
-![Chat interface](Interface.png)
+![Chat interface](Interface.PNG)
