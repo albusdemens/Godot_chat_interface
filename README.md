@@ -1,6 +1,6 @@
 # Godot chat interface
 
-A simple interface for chatting with a language model in Godot Engine. 
+A simple interface for chatting with a language model in Godot Engine. Developed with Godot 4.2.
 
 # Installation and usage
 
